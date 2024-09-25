@@ -1,7 +1,7 @@
 # Fraud Detection Project
 ## Data Dictionary & Source Acquisition
 1. **Data Dictionary:** The data dictionary of the dataset can be found [here.](https://drive.google.com/uc?id=1VQ-HAm0oHbv0GmDKP2iqqFNc5aI91OLn&export=download)
-2. **Data Source:** The dataset can be found [here.](https://drive.google.com/uc?export=download&confirm=6gh6&id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV)
+2. **Data Source:** The dataset **Fraud.csv** can be found [here.](https://drive.google.com/uc?export=download&confirm=6gh6&id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV)
 
 
 ## Observations
